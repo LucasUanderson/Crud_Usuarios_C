@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripcallC", "TripcallC\TripcallC.csproj", "{27F0EA8C-26E3-4FE1-9140-20ED2E1814EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27F0EA8C-26E3-4FE1-9140-20ED2E1814EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27F0EA8C-26E3-4FE1-9140-20ED2E1814EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27F0EA8C-26E3-4FE1-9140-20ED2E1814EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27F0EA8C-26E3-4FE1-9140-20ED2E1814EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA9A5B12-5CB4-4FA5-81B8-8FC6C067AA8E}
+	EndGlobalSection
+EndGlobal
