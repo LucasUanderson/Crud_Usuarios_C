@@ -9467,11 +9467,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucas\\Desktop\\TripcallC\\TripcallC\\TripcallC.csproj",
+      "projectUniqueName": "C:\\Users\\lucas\\Documents\\GitHub\\ultimaEntregaC-\\TripcallC\\TripcallC\\TripcallC.csproj",
       "projectName": "TripcallC",
-      "projectPath": "C:\\Users\\lucas\\Desktop\\TripcallC\\TripcallC\\TripcallC.csproj",
+      "projectPath": "C:\\Users\\lucas\\Documents\\GitHub\\ultimaEntregaC-\\TripcallC\\TripcallC\\TripcallC.csproj",
       "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lucas\\Desktop\\TripcallC\\TripcallC\\obj\\",
+      "outputPath": "C:\\Users\\lucas\\Documents\\GitHub\\ultimaEntregaC-\\TripcallC\\TripcallC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9538,7 +9538,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
